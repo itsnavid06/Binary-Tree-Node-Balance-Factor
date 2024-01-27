@@ -8,3 +8,9 @@ visiting each node.
 
 
 ![image](https://github.com/itsnavid06/Binary-Tree-Node-Balance-Factor/assets/92177592/1750cb75-9ebb-4faa-aee5-d9be22d08b87)
+
+
+Code output: 
+
+
+![image](https://github.com/itsnavid06/Binary-Tree-Node-Balance-Factor/assets/92177592/d1e05438-5c52-4c13-bd9d-97568f29d65d)
