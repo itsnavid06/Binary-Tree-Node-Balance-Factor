@@ -5,7 +5,7 @@ the balance factor of the internal nodes, we can use the Euler tour traversal by
 “post visit” events for each position. The Euler tour traversal involves walking around the tree and 
 visiting each node.
 
-
+I have tested this algorithm by creating a binary tree and manaully checking to see if the results are correct:
 
 ![image](https://github.com/itsnavid06/Binary-Tree-Node-Balance-Factor/assets/92177592/1750cb75-9ebb-4faa-aee5-d9be22d08b87)
 
@@ -14,3 +14,6 @@ Code output:
 
 
 ![image](https://github.com/itsnavid06/Binary-Tree-Node-Balance-Factor/assets/92177592/d1e05438-5c52-4c13-bd9d-97568f29d65d)
+
+
+The time complexity of this algortihm is O(n), since it visits each node exactly once. 
